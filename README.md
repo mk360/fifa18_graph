@@ -12,7 +12,7 @@ This graph attempts to imitate the FIFA 18 graph with as much similarity as poss
 
 ## Testing
 
-A live demo of the graph can be found [here](https://ntonio36.github.io/fifa18_graph/).
+A live demo of the graph can be found [here](https://mk360.github.io/fifa18_graph/).
 
 ## Maintaining
 This project started out as a tool to practically learn SVG in a way that could be personally useful, and as such there aren't any future plans for it to be maintained / enhanced / call it whatever you want. Critical problems will be fixed for sure, but it shouldn't be more than that.
